@@ -1,1 +1,3 @@
-*.jl linguist-language=julia
+*.js linguist-language=julia
+*.css linguist-language=julia
+*.html linguist-language=julia
