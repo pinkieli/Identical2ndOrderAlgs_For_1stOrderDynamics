@@ -4,10 +4,8 @@
 
 This repository contains the source code for the numerical experiments and new algorithms presented in the paper:
 
-**Novel implicit integration algorithms with identical second-order accuracy and flexible dissipation control for first-order transient problems**  
-
-Authors: Jinze Li, Naigang Cui, Yijun Zhu, and Kaiping Yu.
-
+**Novel implicit integration algorithms with identical second-order accuracy and flexible dissipation control for first-order transient problems**   
+Authors: Jinze Li, Naigang Cui, Yijun Zhu, and Kaiping Yu.  
 Journal Submission: International Journal for Numerical Methods in Engineering 
 
 This code was implemented in **Julia** and includes the methods developed in the paper. The purpose of this repository is to allow other researchers to replicate our results and experiment with their good algorithms.
@@ -81,9 +79,9 @@ For any inquiries or issues with the code, please reach out to:
   Email: pinkie.ljz@gmail.com  
   Institution: Harbin Institute of Technology
 
-- **Kaiping Yu**
-  Email: kaipingyu1968@gmail.com
-  Institution: Harbin Institute of Technology
+- **Kaiping Yu**  
+  Email: kaipingyu1968@gmail.com  
+  Institution: Harbin Institute of Technology  
 
 ---
 
